@@ -1,0 +1,55 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color:aliceblue
+}
+.content{
+    margin: 0 auto;
+    min-height: 100vh;
+    border: black solid;
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.one{
+    padding-left: 40px;
+    text-align: left;
+    font-family: sans-serif;
+     font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20p   
+}
+.two{
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-start;
+    font-size: large;
+}
+.twoa{
+    display: flex;
+    flex-direction: column;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.twob{
+    display: flex;
+    flex-direction: column;
+}
+#hi{
+   height: 40px;
+   
+}
+#hii{
+    height: 85px;
+}
+#hi1{
+    border: 2px black solid;
+    
+}
+.footer{
+    display: flex;
+    align-items: end;
+}
